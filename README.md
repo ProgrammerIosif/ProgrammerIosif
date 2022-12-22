@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Iosif
 - 👀 I’m interested in web dev and game dev
-- 🌱 I’m currently studying the OSSU curriculum
+- 🌱 I’m currently studying The Odin Project curriculum
 
 <!---
 ProgrammerIosif/ProgrammerIosif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
